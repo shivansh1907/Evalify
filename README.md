@@ -336,10 +336,14 @@ On Render, set the OCR service's root directory to `ocr-service` with build comm
 
 ## 👤 Author
 
-**Mehul Goyal** — B.Tech CSE, MNIT Jaipur
+**Shivansh Khandelwal** — B.Tech Mechanical, MNIT Jaipur
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehul-goyal-995688293/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mehulgoyal2005)
+- GitHub: https://github.com/shivansh1907
+- LinkedIn: https://www.linkedin.com/in/shivansh-khandelwal-49a99b277/
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh-khandelwal-49a99b277/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shivansh1907)
 
 ---
 
